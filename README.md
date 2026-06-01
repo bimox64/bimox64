@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bimox 👋
 
-<!--
-**bimox64/bimox64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer passionate about AI, Automation, Web Apps & Discord Bots
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning AI and advanced automation
+- 💻 Building web applications and browser extensions
+- 🤖 Creating AI-powered tools and chatbots
+- 🎮 Developing Discord bots and community tools
+- 🎵 Music enthusiast and DJ remix learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git & GitHub
+- AI APIs
+- Discord.js
+
+## What I Build
+- 🤖 WhatsApp AI Auto-Reply Tools
+- 🎮 Discord Bots
+- 🔥 Browser Extensions
+- 🌐 Landing Pages
+- ⚡ AI SaaS Projects
+- 📊 Automation Tools
+
+## Current Goals
+- Build powerful AI products
+- Improve backend development skills
+- Launch SaaS projects
+- Create advanced Discord bots
+
+## GitHub
+- 📂 Open Source Projects
+- 🚀 Experimental AI Tools
+- 💡 Automation Solutions
+
+---
+⭐ Always building something new.
