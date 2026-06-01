@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bimox64/bimox64/blob/main/banner.png" alt="Bimox Banner" />
+  <img src="https://raw.githubusercontent.com/bimox64/bimox64/main/BIMOX.png" alt="Bimox Banner" width="100%">
 </p>
 
 
