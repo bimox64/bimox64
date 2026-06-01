@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/bimox64/bimox64/blob/main/banner.png" alt="Bimox Banner" />
+</p>
+
+
 # Hi, I'm Bimox 👋
 
 🚀 Developer passionate about AI, Automation, Web Apps & Discord Bots
