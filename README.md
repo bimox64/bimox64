@@ -21,11 +21,12 @@
 
 ## 🚀 About Me
 
-* 🤖 Building AI-powered tools & automation systems
+* 🤖 Building AI-powered tools and automation systems
 * 🎮 Developing Discord bots and community tools
 * 🌐 Creating modern web applications
 * ⚡ Passionate about SaaS and productivity software
 * 📚 Currently learning advanced AI integrations
+* 🚀 Always building and experimenting with new ideas
 
 ---
 
@@ -37,33 +38,33 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 Current Focus
 
-* 🤖 AI Chatbots
+* 🤖 AI Applications
 * 🎮 Discord Bots
-* 🌐 Web Applications
-* ⚡ Automation Tools
+* ⚡ Automation Systems
+* 🌐 Modern Web Development
 * 🚀 SaaS Projects
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimox64&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+### 🤖 AI Assistant
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimox64&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+AI-powered chatbot and automation platform.
 
----
+### 🎮 Discord Manager
 
-## 🏆 GitHub Trophies
+Advanced moderation and community management bot.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimox64&theme=tokyonight&row=1&column=6" />
-</p>
+### ⚡ Automation Hub
+
+Tools that automate repetitive online tasks.
+
+### 🌐 Web Applications
+
+Modern responsive web apps and landing pages.
 
 ---
 
